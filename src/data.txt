@@ -1,0 +1,33 @@
+<TagsToText>
+<subject>
+<name>Inzynieria Oprogramowania 1</name>
+<shortcut>IO1</shortcut>
+<year>2012/2013</year>
+</subject>
+<tags>
+<tag>
+<name>Name of a tag</name>
+<text>This text will be generated in a report</text>
+</tag>
+<tag>
+<name>Next tag</tag>
+<text>Another sentence</text>
+</tag>
+</tags>
+<reports>
+<report>
+<students>
+<group>
+name of a group
+</group>
+<student>
+<name>Name Surname</name>
+<id>student's id</id>
+</student>
+</students>
+<tags>
+<tag>name</tag>
+</tags>
+</report>
+</reports>
+</TagsToText>
